@@ -22,4 +22,4 @@ jobs:
       - name: Start the bot
         env:
           PORT: 8080
-        run: node index.js
+        run: npm start 
